@@ -1,0 +1,8 @@
+huggingface_hub[hf_xet]
+transformers>=4.41.1
+datasets>=2.19.1
+evaluate>=0.4.2
+torch>=2.3.0
+scikit-learn>=1.4.2
+scipy>=1.13.1
+tqdm>=4.66.0
