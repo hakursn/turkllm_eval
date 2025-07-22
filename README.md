@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 Or simply clone and import locally:
 ```bash
-git clone https://github.com/yourname/turkllm_eval.git
+git clone https://github.com/hakursn/turkllm_eval.git
 cd turkllm_eval
 ```
 
